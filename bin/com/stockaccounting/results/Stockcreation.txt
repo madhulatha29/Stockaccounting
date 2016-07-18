@@ -1,0 +1,4 @@
+Category###Supplier_num###Stock_name###UOM###Purchasing_price###Selling_price###Notes$$$Results
+Pencils@@@Madhulatha@@@Nataraj@@@Quality1@@@15@@@17@@@Note1@@@pass
+Bags@@@Madhulatha@@@Bag2@@@Quality2@@@200@@@300@@@Note2@@@pass
+Pencils@@@Sravanthi@@@Camlin@@@Quality3@@@10@@@15@@@Note3@@@pass
