@@ -22,8 +22,9 @@ public class Testbase {
 	@AfterTest
 	  public void Logout() 
 	  {
-		
-		  SL.Logout();
+		String res;
+		  res=SL.Logout();
+		  System.out.println(res);
 	  }
 	  
 

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40962" started-at="2016-07-18T09:38:59Z" finished-at="2016-07-18T09:39:40Z">
+  <suite name="Default suite" duration-ms="40149" started-at="2016-07-18T11:24:29Z" finished-at="2016-07-18T11:25:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40962" started-at="2016-07-18T09:38:59Z" finished-at="2016-07-18T09:39:40Z">
+    <test name="Default test" duration-ms="40149" started-at="2016-07-18T11:24:29Z" finished-at="2016-07-18T11:25:09Z">
       <class name="com.stockaccounting.scripts.SuppliersTestng">
-        <test-method status="PASS" signature="OpenApp()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="OpenApp" is-config="true" duration-ms="10369" started-at="2016-07-18T15:08:49Z" finished-at="2016-07-18T15:08:59Z">
+        <test-method status="PASS" signature="OpenApp()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="OpenApp" is-config="true" duration-ms="18407" started-at="2016-07-18T16:54:11Z" finished-at="2016-07-18T16:54:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenApp -->
-        <test-method status="PASS" signature="Adminlogin()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Adminlogin" is-config="true" duration-ms="2287" started-at="2016-07-18T15:08:59Z" finished-at="2016-07-18T15:09:01Z">
+        <test-method status="PASS" signature="Adminlogin()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Adminlogin" is-config="true" duration-ms="3193" started-at="2016-07-18T16:54:29Z" finished-at="2016-07-18T16:54:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Adminlogin -->
-        <test-method status="PASS" signature="Suppliers()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliers" duration-ms="2260" started-at="2016-07-18T15:09:01Z" finished-at="2016-07-18T15:09:04Z">
+        <test-method status="PASS" signature="Suppliers()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliers" duration-ms="2298" started-at="2016-07-18T16:54:33Z" finished-at="2016-07-18T16:54:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Suppliers -->
-        <test-method status="PASS" signature="Suppliercreation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliercreation" duration-ms="18880" started-at="2016-07-18T15:09:04Z" data-provider="udata" finished-at="2016-07-18T15:09:23Z">
+        <test-method status="PASS" signature="Suppliercreation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliercreation" duration-ms="17196" started-at="2016-07-18T16:54:35Z" data-provider="udata" finished-at="2016-07-18T16:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Suppliercreation -->
-        <test-method status="PASS" signature="Suppliercreation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliercreation" duration-ms="16972" started-at="2016-07-18T15:09:23Z" data-provider="udata" finished-at="2016-07-18T15:09:40Z">
+        <test-method status="PASS" signature="Suppliercreation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Suppliercreation" duration-ms="17051" started-at="2016-07-18T16:54:52Z" data-provider="udata" finished-at="2016-07-18T16:55:09Z">
           <params>
             <param index="0">
               <value>
@@ -121,11 +121,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Suppliercreation -->
-        <test-method status="PASS" signature="Logout()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Logout" is-config="true" duration-ms="529" started-at="2016-07-18T15:09:40Z" finished-at="2016-07-18T15:09:40Z">
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="Logout" is-config="true" duration-ms="360" started-at="2016-07-18T16:55:09Z" finished-at="2016-07-18T16:55:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
-        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="CloseApp" is-config="true" duration-ms="36" started-at="2016-07-18T15:09:40Z" finished-at="2016-07-18T15:09:40Z">
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.stockaccounting.scripts.SuppliersTestng@311d5216]" name="CloseApp" is-config="true" duration-ms="127" started-at="2016-07-18T16:55:10Z" finished-at="2016-07-18T16:55:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApp -->
